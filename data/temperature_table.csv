@@ -1,0 +1,372 @@
+State,Station,Max Temp (°C),Min Temp (°C)
+Andaman and Nicobar,Car-Nicobar,38.1,10.9
+Andaman and Nicobar,Hut Bay,39.4,0.2
+Andaman and Nicobar,Kondul,47.2,14.0
+Andaman and Nicobar,Long Island,43.1,14.6
+Andaman and Nicobar,Mayabandar,39.0,14.0
+Andaman and Nicobar,Nancowry,39.2,13.9
+Andaman and Nicobar,Port Blair,36.4,14.6
+Andhra Pradesh,Anantapur,44.1,9.4
+Andhra Pradesh,Arogyavaram,40.6,8.0
+Andhra Pradesh,Bapatla,47.4,11.1
+Andhra Pradesh,Cuddapah,46.1,10.0
+Andhra Pradesh,Visakhapatnam (Dolphine Nose),42.8,14.1
+Andhra Pradesh,Visakhapatnam (RS/RW),42.0,15.8
+Andhra Pradesh,Visakhapatnam,45.4,10.5
+Andhra Pradesh,Gannavaram,48.8,8.5
+Andhra Pradesh,Kakinada,47.2,12.0
+Andhra Pradesh,Kalingapatanam,46.2,10.3
+Andhra Pradesh,Kavali,47.2,16.4
+Andhra Pradesh,Kurnool,45.6,6.7
+Andhra Pradesh,Masulipatnam,47.8,13.2
+Andhra Pradesh,Nandigama,47.1,9.3
+Andhra Pradesh,Nandyal,48.2,9.2
+Andhra Pradesh,Narsapur,46.1,14.6
+Andhra Pradesh,Nellore,46.7,11.1
+Andhra Pradesh,Nidadavolu,48.9,11.4
+Andhra Pradesh,Ongole,47.4,14.0
+Andhra Pradesh,Rentachintala,49.9,9.4
+Andhra Pradesh,Tirupathy,45.2,12.9
+Andhra Pradesh,Tuni,47.5,13.9
+Andhra Pradesh,Vijayawada,47.2,15.0
+Arunachal Pradesh,Pasighat,38.8,6.0
+Assam,Dhubri,41.3,2.4
+Assam,Dibrugarh,39.8,1.0
+Assam,Guwahati,40.3,3.0
+Assam,North Lakhimpur,39.0,2.7
+Assam,Rangia,39.4,6.0
+Assam,Silchar,39.4,5.0
+Assam,Tezpur,45.7,5.6
+Bihar,Bhagalpur,46.6,3.8
+Bihar,Chaibasa,46.7,4.4
+Bihar,Chapra,46.6,2.4
+Bihar,Daltonganj,48.8,0.0
+Bihar,Darbhanga,44.1,0.0
+Bihar,Dehri,49.5,-1.0
+Bihar,Dumka,48.5,1.9
+Bihar,Gaya,49.0,1.2
+Bihar,Hazaribagh,46.6,0.5
+Bihar,Jamshedpur (City),47.7,3.9
+Bihar,Jamshedpur (Airport),46.6,4.4
+Bihar,Motihari,44.4,0.0
+Bihar,Muzaffarpur,44.5,2.2
+Bihar,Patna,46.6,1.4
+Bihar,Purnea,43.9,-0.2
+Bihar,Ranchi,43.4,0.6
+Bihar,Sabaur,46.1,0.6
+Chattisgarh,Ambikapur,44.9,0.9
+Chattisgarh,Bailaldila,39.4,4.6
+Chattisgarh,Jagdalpur,46.1,2.8
+Chattisgarh,Raipur,47.9,3.9
+Daman and Diu,Diu,44.0,5.0
+Goa,Dabolim,38.2,13.6
+Goa,Marmugao,38.4,12.2
+Goa,Panjim,39.8,3.4
+Gujarat,Ahmedabad,47.8,2.2
+Gujarat,Amreli,46.2,1.6
+Gujarat,Valsad,43.1,5.8
+Gujarat,Baroda (City),46.7,-1.1
+Gujarat,Baroda (Airport),46.2,2.8
+Gujarat,Bhavnagar,47.3,0.6
+Gujarat,Bhuj,47.8,-0.2
+Gujarat,Deesa,49.4,2.0
+Gujarat,Dohad,47.0,0.0
+Gujarat,Dwarka,42.7,6.1
+Gujarat,Idar,48.5,4.8
+Gujarat,Keshod,45.5,3.6
+Gujarat,Naliya,44.6,0.4
+Gujarat,Kandla,47.1,4.4
+Gujarat,Okha,39.5,10.0
+Gujarat,Porbandar,45.5,2.0
+Gujarat,Rajkot,47.9,-0.6
+Gujarat,Surat,45.6,4.4
+Gujarat,Vallabh Vidyanagar,47.5,2.0
+Gujarat,Veraval,44.2,4.4
+Haryana,Ambala,47.8,-1.3
+Haryana,Bhiwani,46.8,0.4
+Haryana,Gurgaon,49.0,-0.4
+Haryana,Hissar,48.8,-3.9
+Haryana,Karnal,49.0,-0.4
+Haryana,Narnaul,48.4,-0.9
+Haryana,Rohtak,47.2,-0.5
+Himachal Pradesh,Bhuntar,40.0,-5.2
+Himachal Pradesh,Dharamshala,42.7,-1.9
+Himachal Pradesh,Kalpa,32.4,-15.5
+Himachal Pradesh,Manali,35.0,-11.6
+Himachal Pradesh,Nahan,43.0,-7.9
+Himachal Pradesh,Solan,39.0,-3.9
+Himachal Pradesh,Shimla,32.4,-12.2
+Himachal Pradesh,Sundernagar,42.1,-2.7
+Himachal Pradesh,Una,45.2,-5.8
+Jammu and Kashmir,Badarwah,39.4,-10.8
+Jammu and Kashmir,Banihal,36.3,-13.6
+Jammu and Kashmir,Batote,36.6,-7.2
+Jammu and Kashmir,Gulmarg,29.4,-19.8
+Jammu and Kashmir,Jammu,47.4,0.6
+Jammu and Kashmir,Kathua,48.0,-1.8
+Jammu and Kashmir,Katra,46.2,-1.0
+Jammu and Kashmir,Kukernag,34.9,-15.3
+Jammu and Kashmir,Kupwara,37.6,-15.7
+Jammu and Kashmir,Pehalgam,32.2,-18.6
+Jammu and Kashmir,Quazigund,35.7,-16.7
+Jammu and Kashmir,Srinagar,38.3,-20.0
+Karnataka,Agumbe,38.0,3.2
+Karnataka,Bagalkote,42.8,7.8
+Karnataka,Balehonnur,39.2,6.7
+Karnataka,Bengaluru (City),38.9,7.8
+Karnataka,Bengaluru (Airport),38.3,8.8
+Karnataka,Belgaum (City),41.9,6.7
+Karnataka,Belgaum (Sambre),40.2,6.4
+Karnataka,Bellary,44.7,7.0
+Karnataka,Bidar,44.0,6.2
+Karnataka,Bijapur,44.9,5.6
+Karnataka,Chickmagalur,37.0,10.0
+Karnataka,Chitradurga,41.7,8.3
+Karnataka,Gadag,41.7,9.8
+Karnataka,Gulbarga,46.1,5.6
+Karnataka,Hassan,37.8,5.6
+Karnataka,Honavar,38.6,13.5
+Karnataka,Karwar,39.6,11.6
+Karnataka,Kolar Gold Field,39.7,9.4
+Karnataka,Mandya,39.1,8.0
+Karnataka,Mangalore (Bajpe),39.8,15.9
+Karnataka,Mangalore (Panambur),38.1,15.6
+Karnataka,Mercara,36.2,4.8
+Karnataka,Mysore,39.4,8.6
+Karnataka,Raichur,45.6,7.3
+Karnataka,Shimoga,44.0,6.0
+Karnataka,Shirali,38.9,14.3
+Karnataka,Tumkur,39.0,6.0
+Kerala,Alleppy,39.9,13.8
+Kerala,Kozhikode,38.1,13.8
+Kerala,Kannur,38.3,16.4
+Kerala,Kochi,36.5,16.3
+Kerala,Karipur,38.6,11.2
+Kerala,Kottayam,38.5,16.0
+Kerala,Palakkad,41.8,14.0
+Kerala,Punalur,40.6,12.9
+Kerala,Thiruvananthapuram,38.3,16.0
+Lakshadweep,Agatti,38.0,22.1
+Lakshadweep,Amini Divi,38.3,16.6
+Lakshadweep,Minicoy,36.7,16.7
+Madhya Pradesh,Alirajpur,46.2,0.0
+Madhya Pradesh,Bagratawa,47.2,1.5
+Madhya Pradesh,Betul,48.0,-0.2
+Madhya Pradesh,Bhopal,46.0,0.6
+Madhya Pradesh,Chhindwara,47.6,1.1
+Madhya Pradesh,Damoh,49.8,1.0
+Madhya Pradesh,Datia,48.5,0.0
+Madhya Pradesh,Dhar,47.1,3.0
+Madhya Pradesh,Guna,48.0,-2.2
+Madhya Pradesh,Gwalior,48.3,-1.1
+Madhya Pradesh,Hoshangabad,47.1,1.0
+Madhya Pradesh,Indore,46.0,-2.8
+Madhya Pradesh,Jabalpur,46.7,0.0
+Madhya Pradesh,Khajuraho,48.4,0.6
+Madhya Pradesh,Khandwa,47.6,0.2
+Madhya Pradesh,Khargone,47.9,0.2
+Madhya Pradesh,Malanjkhand,45.5,0.6
+Madhya Pradesh,Mandla,46.8,0.0
+Madhya Pradesh,Narsinghpur,48.6,-1.4
+Madhya Pradesh,Nimach,46.7,-1.1
+Madhya Pradesh,Nowgong,48.8,-1.7
+Madhya Pradesh,Panna,47.0,-0.4
+Madhya Pradesh,Pendra Road,46.7,1.7
+Madhya Pradesh,Raisen,47.7,0.0
+Madhya Pradesh,Rajgarh,48.3,6.4
+Madhya Pradesh,Rajnandgaon,46.7,1.7
+Madhya Pradesh,Ratlam,45.5,2.5
+Madhya Pradesh,Rewa,46.8,0.6
+Madhya Pradesh,Sagar,46.4,1.1
+Madhya Pradesh,Satna,47.8,0.4
+Madhya Pradesh,Seoni,45.2,2.8
+Madhya Pradesh,Shajapur,47.2,-0.5
+Madhya Pradesh,Sheopur,48.8,-2.2
+Madhya Pradesh,Shivpuri,47.2,-4.0
+Madhya Pradesh,Sidhi,52.3,1.0
+Madhya Pradesh,Thikri,47.5,0.5
+Madhya Pradesh,Tikamgarh,47.5,-0.6
+Madhya Pradesh,Ujjain,46.0,0.0
+Madhya Pradesh,Umaria,48.7,0.0
+Madhya Pradesh,Vidisha,49.1,0.0
+Maharashtra,Ahmednagar,48.2,2.2
+Maharashtra,Akola (City),47.8,2.2
+Maharashtra,Akola (Airport),47.7,4.4
+Maharashtra,Alibagh,40.1,9.4
+Maharashtra,Amravati,48.3,1.5
+Maharashtra,Aurangabad,43.6,1.2
+Maharashtra,Baramati,43.8,5.0
+Maharashtra,Bhira,49.0,5.1
+Maharashtra,Beed,47.0,4.0
+Maharashtra,Buldhana,48.3,0.8
+Maharashtra,Chandrapur,49.2,2.8
+Maharashtra,Dahanu,40.6,8.3
+Maharashtra,Devgad,43.1,14.1
+Maharashtra,Gondia,47.5,0.8
+Maharashtra,Harnai,39.8,12.5
+Maharashtra,Jalgaon,48.4,1.7
+Maharashtra,Jeur,46.6,2.2
+Maharashtra,Kolhapur,42.3,8.6
+Maharashtra,Mahabaleshwar,38.2,3.9
+Maharashtra,Malegaon,46.7,-0.6
+Maharashtra,Miraj,43.0,6.5
+Maharashtra,Mumbai (Colaba),40.6,11.7
+Maharashtra,Mumbai (Santa Cruz),42.2,7.4
+Maharashtra,Nagpur (Mayo),47.7,7.3
+Maharashtra,Nagpur (Sonegaon),47.8,3.9
+Maharashtra,Nanded,46.7,3.6
+Maharashtra,Osmanabad,45.1,8.0
+Maharashtra,Ozar,43.9,0.4
+Maharashtra,Parbhani,46.6,4.4
+Maharashtra,Pune,43.3,1.7
+Maharashtra,Pusad,47.6,1.1
+Maharashtra,Ratnagiri,40.6,11.5
+Maharashtra,Satara,42.6,4.8
+Maharashtra,Solapur,46.0,4.4
+Maharashtra,Sironcha,48.2,4.5
+Maharashtra,Vengurla,40.0,6.2
+Maharashtra,Wardha,48.4,4.3
+Maharashtra,Yeotmal,46.6,6.2
+Manipur,Imphal,36.1,-2.7
+Meghalaya,Barapani,35.2,-3.4
+Meghalaya,Cherrapunji,31.1,-1.0
+Meghalaya,Shillong,30.2,-3.3
+Mizoram,Aizwal,35.5,6.1
+New Delhi,New Delhi (Palam),48.4,-2.2
+New Delhi,New Delhi (Safdarjang),47.2,-0.6
+New Delhi,New Delhi (C.H.O.),47.8,-0.4
+Orissa,Angul,47.2,0.0
+Orissa,Balasore,46.7,6.7
+Orissa,Baripada,48.3,6.5
+Orissa,Bhubaneswar,46.5,8.6
+Orissa,Bolangir,49.0,1.6
+Orissa,Chandbali,46.7,5.1
+Orissa,Cuttack,47.7,5.8
+Orissa,Gopalpur,44.0,9.6
+Orissa,Jharsuguda,49.6,6.0
+Orissa,Keonjhargarh,47.4,0.6
+Orissa,Paradip Port,42.4,9.6
+Orissa,Puri,44.2,7.5
+Orissa,Sambalpur,49.0,3.6
+Orissa,Sundergarh,47.6,1.6
+Orissa,Titlagarh,50.1,4.0
+Pondicherry,Pondicherry,45.5,15.1
+Punjab,Amritsar,47.8,-3.6
+Punjab,Kapurthala,47.7,0.0
+Punjab,Ludhiana,46.6,-1.7
+Punjab,Patiala,47.0,-0.9
+Rajasthan,Abu,40.4,-7.4
+Rajasthan,Ajmer,47.4,-2.8
+Rajasthan,Alwar,50.6,-0.8
+Rajasthan,Banswara,47.5,2.8
+Rajasthan,Bharatpur,48.5,1.7
+Rajasthan,Barmer,49.9,-1.7
+Rajasthan,Bhilwara,47.8,-0.3
+Rajasthan,Bikaner,49.4,-4.0
+Rajasthan,Chittorgarh,47.5,-0.1
+Rajasthan,Churu,49.9,-4.6
+Rajasthan,Dholpur,50.0,-4.3
+Rajasthan,Ganganagar,50.0,-2.8
+Rajasthan,Jaipur,49.0,-2.2
+Rajasthan,Jaisalmer,49.2,-5.9
+Rajasthan,Jhalawar,49.3,-0.6
+Rajasthan,Kota,48.5,1.8
+Rajasthan,Phalodi,49.6,-3.3
+Rajasthan,Pilani,48.6,-4.0
+Rajasthan,Sawai Madhopur,48.0,-1.2
+Rajasthan,Sikar,49.7,-4.9
+Rajasthan,Udaipur,46.4,-1.3
+Sikkim,Gangtok,29.9,-2.2
+Sikkim,Tadong,32.6,0.0
+Tamil Nadu,Adiramapatinam,43.0,15.6
+Tamil Nadu,Ariyalur,49.6,13.0
+Tamil Nadu,Chennai (Minambakkam),49.1,15.7
+Tamil Nadu,Chennai (Nungambakkam),45.0,13.9
+Tamil Nadu,Coimbatore,42.6,12.2
+Tamil Nadu,Coonoor,29.6,-0.5
+Tamil Nadu,Cuddalore,43.3,8.0
+Tamil Nadu,Dharmapuri,41.4,10.6
+Tamil Nadu,Erode,42.8,13.0
+Tamil Nadu,Kanniyakumari,39.4,18.6
+Tamil Nadu,Kodaikanal,29.3,0.6
+Tamil Nadu,Karaikal,42.0,17.8
+Tamil Nadu,Karaikudi,42.7,15.5
+Tamil Nadu,Madurai,44.5,10.5
+Tamil Nadu,Mettur Dam,42.4,13.1
+Tamil Nadu,Nagapattinam,42.8,15.6
+Tamil Nadu,Octacamund,28.5,-2.1
+Tamil Nadu,Palayamkottai,44.9,16.3
+Tamil Nadu,Pamban,38.9,17.0
+Tamil Nadu,Salem,42.8,11.1
+Tamil Nadu,Thanjavur,46.2,16.6
+Tamil Nadu,Tiruchirapalli,43.9,13.9
+Tamil Nadu,Tiruppattur,46.3,10.2
+Tamil Nadu,Tiruttani,48.6,10.0
+Tamil Nadu,Tondi,40.4,15.7
+Tamil Nadu,Tuticorin,41.1,15.3
+Tamil Nadu,Vellore,45.0,8.4
+Telangana,Bhadrachallam,49.4,8.4
+Telangana,Hanamkonda,47.8,8.3
+Telangana,Hyderabad,45.5,6.1
+Telangana,Khammam,47.2,9.4
+Telangana,Mahbubnagar,45.3,9.1
+Telangana,Medak,46.3,2.7
+Telangana,Nalgonda,46.5,10.6
+Telangana,Nizamabad,47.3,4.4
+Telangana,Ramgundam,47.3,7.5
+Tripura,Agartala,42.2,2.0
+Tripura,Kailashahar,42.2,2.4
+Uttar Pradesh,Agra,48.6,-2.2
+Uttar Pradesh,Aligarh,49.5,0.0
+Uttar Pradesh,Allahabad,48.8,-0.7
+Uttar Pradesh,Bahraich,47.6,0.3
+Uttar Pradesh,Ballia,48.0,0.0
+Uttar Pradesh,Banda,48.9,-0.8
+Uttar Pradesh,Barabanki,47.0,2.0
+Uttar Pradesh,Bareilly,47.3,-1.3
+Uttar Pradesh,Etawah,48.6,0.4
+Uttar Pradesh,Faizabad,47.4,0.8
+Uttar Pradesh,Fatehgarh,48.8,2.1
+Uttar Pradesh,Fatehpur,48.1,-1.7
+Uttar Pradesh,Gazipur,46.4,-0.5
+Uttar Pradesh,Gonda,49.9,0.1
+Uttar Pradesh,Gorakhpur,49.4,1.7
+Uttar Pradesh,Hamirpur,48.2,-1.0
+Uttar Pradesh,Hardoi,48.3,0.7
+Uttar Pradesh,Jhansi,48.2,0.0
+Uttar Pradesh,Kanpur,47.3,0.4
+Uttar Pradesh,Kheri-Lakhimpur,47.6,0.5
+Uttar Pradesh,Lucknow,47.7,-1.0
+Uttar Pradesh,Mainpuri,49.2,-1.7
+Uttar Pradesh,Mathura,47.6,0.0
+Uttar Pradesh,Meerut,46.1,0.0
+Uttar Pradesh,Moradabad,48.2,0.0
+Uttar Pradesh,Muzaffarnagar,45.0,-2.6
+Uttar Pradesh,Najibabad,45.2,-2.9
+Uttar Pradesh,Shahajahanpur,46.2,0.6
+Uttar Pradesh,Sultanpur,48.0,0.0
+Uttar Pradesh,Varanasi,48.0,0.3
+Uttarakhand,Dehradun,43.9,-1.1
+Uttarakhand,Mukteswar,31.5,-7.8
+Uttarakhand,Pantnagar,45.6,-2.2
+Uttarakhand,Roorkee,47.4,-2.2
+West Bengal,Balurghat,43.4,4.1
+West Bengal,Bankura,47.4,0.8
+West Bengal,Berhampore,48.3,3.9
+West Bengal,Kolkata (Alipur),43.9,6.7
+West Bengal,Kolkata (Dum Dum),43.7,5.0
+West Bengal,Canning,42.5,7.6
+West Bengal,Contai,43.8,7.7
+West Bengal,Cooch Behar,41.0,3.3
+West Bengal,Darjeeling,28.5,-7.2
+West Bengal,Digha,42.0,7.6
+West Bengal,Diamond Harbour,43.0,8.2
+West Bengal,Haldia,40.9,9.1
+West Bengal,Jalpaiguri,40.9,2.2
+West Bengal,Kalimpong,34.1,-0.6
+West Bengal,Krishnanagar,46.1,0.9
+West Bengal,Malda,45.0,3.9
+West Bengal,Midnapore,47.2,0.6
+West Bengal,Purulia,46.3,3.8
+West Bengal,Shanti-Niketan,47.0,5.0
+West Bengal,Ulberia,43.5,6.6
